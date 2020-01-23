@@ -1,5 +1,5 @@
 {
-  "name": "how-to-publish-to-npm",
+  "name": "@klarstil/how-to-publish-to-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
